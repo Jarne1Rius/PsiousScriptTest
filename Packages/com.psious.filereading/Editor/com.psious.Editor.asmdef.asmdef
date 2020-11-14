@@ -1,0 +1,5 @@
+﻿{
+	"name": "com.psious.Editor.asmdef",
+	"references" : ["com.psious.filereading"],
+	"IncludePlatforms" : ["Editor"]
+}
